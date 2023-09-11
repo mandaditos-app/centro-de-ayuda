@@ -51,17 +51,6 @@ header {
   color: #1c9e84;
 }
 
-nav {
-  display: flex;
-  justify-content: space-between;
-}
-
-nav a {
-  color: #fff;
-  text-decoration: none;
-  margin-left: 20px;
-}
-
 /* Main */
 main {
   max-width: 900px;
@@ -103,11 +92,6 @@ footer p {
     padding: 10px;
   }
 
-  nav a {
-    font-size: 14px;
-    margin-left: 10px;
-  }
-
   header h1 {
     font-size: 36px;
   }
@@ -127,9 +111,5 @@ footer p {
 
   footer {
     padding: 10px;
-  }
-
-  a {
-    display: none;
   }
 }
